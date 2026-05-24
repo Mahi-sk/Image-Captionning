@@ -1,0 +1,9 @@
+tensorflow==2.15.0
+numpy<2.0.0
+matplotlib
+pillow
+fastapi
+uvicorn
+python-multipart
+aiofiles
+pydantic
